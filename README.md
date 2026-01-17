@@ -1,4 +1,12 @@
- ./claude_usage_overview.sh
+ **Step 1**:
+ `chmod +x claude_usage_overview.sh`
+ 
+ **Step 2**: 
+  `./claude_usage_overview.sh`
+  
+
+ **Result in the CLI**
+ ```
 ═══════════════════════════════════════════════════════════════
            CLAUDE CODE USAGE ANALYSIS REPORT
 ═══════════════════════════════════════════════════════════════
@@ -156,3 +164,5 @@ Your token usage comes from:
 ═══════════════════════════════════════════════════════════════
 
 Run this script anytime to check your Claude Code cache status!
+
+```
